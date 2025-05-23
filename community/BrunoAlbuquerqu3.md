@@ -7,8 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-albuquerque-b00812191/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BrunoAlbuquerqu3)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=White)](mailto:bruno30break@gmail.com)
-
+  
 </div>
 
 <h3 align="center">🧠 Sobre mim</h3>
@@ -70,15 +69,6 @@
 • Formação Análise de Dados com Power BI - DIO<br>
 • Curso de SQL para Análise de Dados - Alura
 </div>
-
-<h2 align="center">📱 Redes sociais</h2>
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-
-</div>
-
 ---
 
 <p align="center">
