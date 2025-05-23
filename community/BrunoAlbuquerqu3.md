@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-albuquerque-b00812191/)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BrunoAlbuquerqu3)
-
+  
 </div>
 
 <h3 align="center">🧠 Sobre mim</h3>
@@ -69,7 +69,6 @@
 • Formação Análise de Dados com Power BI - DIO<br>
 • Curso de SQL para Análise de Dados - Alura
 </div>
-
 ---
 
 <p align="center">
